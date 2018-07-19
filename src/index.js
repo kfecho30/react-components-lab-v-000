@@ -58,6 +58,7 @@ export class App extends Component {
       <div id="app">
         < OlderCoaster />
         < InFrontOfYou />
+        < ButcherShop />
       </div>
     )
   }
